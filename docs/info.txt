@@ -1,0 +1,13 @@
+Context and Setup
+=================
+Using the SDL3 (Simple DirectMedia Layer) Library
+
+Link to releases: https://github.com/libsdl-org/SDL/releases
+-------------------------
+**Write Test Code for SDL
+      Explain more.
+
+(bin/ stands for binaries)
+
+
+---------------------------------------------------------------------------------

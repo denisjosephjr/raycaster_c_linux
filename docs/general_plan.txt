@@ -1,0 +1,14 @@
+Broad
+=====
+Learn SDL3, display basic images
+    Use Lazy Foo's guide
+
+Learn Raycasting Logic
+
+Bridge the gap
+
+
+
+NEXT
+====
+Install SDL3 for Linux
