@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 #include <SDL3/SDL.h>
+
+
 // argc: Argument Count, argv: Argument Vector which holds args
 int main(int argc, char *argv[]) {
 

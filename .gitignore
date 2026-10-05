@@ -1,0 +1,8 @@
+# Executables
+main
+test
+
+# Don't bloat repo with dependencies or binaries, there is a dot file with 
+# appropriate installation for SDL3 on Linux. cmake file coming later.
+SDL/
+build_sdl3/
